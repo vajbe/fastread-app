@@ -1,0 +1,8 @@
+.news-card{
+    max-width: 540px;
+    border-radius: 25px;
+}
+
+.row.card-container{
+    margin: 0 !important;
+  }

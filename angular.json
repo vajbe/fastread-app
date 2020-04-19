@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles/styles.css",
+              "src/styles/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -88,7 +89,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles/styles.css"
             ],
             "scripts": []
           }
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fastread"
+    }
+  },
+  "defaultProject": "fastread",
+  "cli": {
+    "analytics": "66acd254-e040-45df-b0b0-e728234b1fed"
+  }
 }
